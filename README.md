@@ -1,7 +1,7 @@
  <div>
-  <a href="https://github.com/GabrielRosaS2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRosaS2&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><img align="right" alt="Gato" src="https://cdn.discordapp.com/attachments/842552722648727573/875979377765126144/gato-fiesta.gif"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRosa&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/GabrielBRosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBRosa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><img align="right" alt="Gato" src="https://cdn.discordapp.com/attachments/842552722648727573/875979377765126144/gato-fiesta.gif"><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBRosa&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
  
  <div style="display: inline_block"><br>
